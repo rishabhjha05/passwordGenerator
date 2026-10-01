@@ -1,0 +1,17 @@
+
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-color:rgb(19, 0, 33) ;
+    color: antiquewhite;
+    font-family: 'Poppins', sans-serif;
+}
+#root{
+    display: flex;
+    flex-direction: column;
+    row-gap: 1.5rem;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
