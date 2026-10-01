@@ -171,11 +171,16 @@
     .container{
         width: 80%;
         row-gap: 3rem;
+        input,button{
+            padding: 0.4rem;
+            font-size: 0.75rem;
+        }
         label{
             font-size: 0.6rem;
         }
         #length-slider{
-            width: 30%;
+            width: 28%;
+            padding: 0;
         }
         padding: 1rem;
         row-gap: 1.5rem;
